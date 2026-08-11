@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://curtizjameshortaleza.github.io/resources-xugiav/sitemap.xml
